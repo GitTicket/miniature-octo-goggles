@@ -1,3 +1,24 @@
 [submodule "auth"]
 	path = auth
 	url = https://github.com/GitTicket/auth
+[submodule "client"]
+	path = client
+	url = https://github.com/GitTicket/client
+[submodule "common"]
+	path = common
+	url = https://github.com/GitTicket/common
+[submodule "expiration"]
+	path = expiration
+	url = https://github.com/GitTicket/expiration
+[submodule "infra"]
+	path = infra
+	url = https://github.com/GitTicket/infra
+[submodule "orders"]
+	path = orders
+	url = https://github.com/GitTicket/orders
+[submodule "payments"]
+	path = payments
+	url = https://github.com/GitTicket/payments
+[submodule "tickets"]
+	path = tickets
+	url = https://github.com/GitTicket/tickets
